@@ -1,2 +1,1 @@
-# Termux
-Termux config
+# Termux .dotfiles
